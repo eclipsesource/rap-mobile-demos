@@ -1,2 +1,1 @@
-rap-mobile-demos
-================
+The RAP mobile demos repository has moved to https://github.com/eclipsesource/tabris-demos
